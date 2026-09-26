@@ -1,6 +1,6 @@
 ---
 
-title: "Introduction to R Workshop Reflection"
+title: "Extra Credit: Intro to R Workshop Reflection"
 date: 2026-09-26
 categories:
 - Extra Credit
@@ -42,7 +42,7 @@ Another interesting topic was missing data. R represents missing values as NA, a
 
 *Figure 1. The native R pipe changes a nested BMI calculation into a readable sequence of steps. Screenshot from the NYU Data Services Introduction to R materials, Denis Rubin et al., 2026.*
 
-The pipe operator, written as |>, was also a very memorable concept. It passes the result of one step into the next step, so the code can be read from left to right as "and then." The workshop compared the pipe to a morning routine: like you wake up, shower, get dressed, eat breakfast, and leave the house. In data analysis, the same structure might mean selecting a column, calculating its mean, and rounding the result. This is a clearer way to do it rather than placing many functions inside one another, and it makes it easier to check for errors.
+The pipe operator, written as `|>`, was also a very memorable concept. It passes the result of one step into the next step, so the code can be read from left to right as "and then." The workshop compared the pipe to a morning routine: like you wake up, shower, get dressed, eat breakfast, and leave the house. In data analysis, the same structure might mean selecting a column, calculating its mean, and rounding the result. This is a clearer way to do it rather than placing many functions inside one another, and it makes it easier to check for errors.
 
 The workshop then applied this logic to the NHANES dataset using tools from the tidyverse. Functions such as rename(), mutate(), filter(), select(), etc. each perform a distinct task. They can (non-exhaustive list of things I noted): rename variables, compute new values, retain relevant observations, choose columns, and also sort results. There was a good example of this in action that asked for the five heaviest adult men while displaying only ID, age, and weight. The solution was to translate the question into four clear operations: filter the rows, sort weight from highest to lowest, select three columns, and retain the first five records. I liked this example and mention it here because it showed how a question can be broken down into a logical sequence of data-processing steps.
 
