@@ -1,9 +1,9 @@
 ---
 
-title: "Extra Credit: Intro to R Workshop Reflection"
-date: 2026-09-26
+title: "Assignment #1"
+date: 2026-10-03
 tags:
-- Extra Credit
+- Assignment
 
 ---
 
