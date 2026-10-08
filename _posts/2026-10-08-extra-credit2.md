@@ -1,6 +1,6 @@
 ---
 
-title: "Extra Credit: Intro to R Workshop Reflection"
+title: "Extra Credit #2: Breaking Up with Google Docs"
 date: 2026-10-08
 tags:
 - Extra Credit
