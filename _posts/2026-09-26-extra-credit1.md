@@ -68,6 +68,8 @@ As a senior majoring in Business but not sure about my Capstone idea yet, I can 
 
 In my future beyond my capstone and university, the most valuable lesson may be reproducibility. Businesses usually make decisions using large, imperfect datasets, and analysts must explain their methods to colleagues. Readable pipes, documented transformations, summary statistics, and clear graphics can make that process more transparent. I am of course not leaving the workshop as an R expert, but I now understand its basic workflow and now can expand my knowledge to be able to use R in both my capstone and my future workplace.
 
+READY FOR GRADING
+
 ```
 
 ```

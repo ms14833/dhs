@@ -57,6 +57,8 @@ The same workflow would transfer well into my professional work, too. Business r
 
 Ultimately, if I were choosing today, I would probably begin with Joplin because its familiar structure makes adoption more realistic. A tool only helps if I consistently use it obviously. Yet, Obsidian seems more valuable for capstone synthesis, especially once my source collection becomes large enough that relationships among ideas matter more than simple storage. In the end, the workshop helped me see my decisions to work with certain programs (like Google Docs) more critically. And now instead of choosing software only because it is already popular, I now have a better basis for evaluating things like privacy, portability, and the kind of thinking each tool encourages.
 
+READY FOR GRADING
+
 ```
 
 ```
